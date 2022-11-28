@@ -1,7 +1,4 @@
-Merge branch 'master' of https://github.com/Tomeseen/simple_shell
-n world!
-
-
+This is a README file created for the ALX higher level programming tasks
 
 The first projects are more "C-oriented" - no tricks, no funky syntax - simple!
 
@@ -15,7 +12,4 @@ Like C, Python also has a linter / style guide like Betty, called PEP8, also now
 
 Enjoy!
 
-
-
-- Guillaume
 
